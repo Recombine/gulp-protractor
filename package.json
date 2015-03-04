@@ -1,6 +1,6 @@
 {
-  "name": "gulp-protractor",
-  "version": "0.0.12",
+  "name": "recombine-gulp-protractor",
+  "version": "0.0.1",
   "description": "A helper for protactor and gulp",
   "keywords": [
     "gulpfriendly",
